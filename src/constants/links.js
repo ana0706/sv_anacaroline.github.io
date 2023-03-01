@@ -12,7 +12,7 @@ const LINKS = Object.freeze({
   }),
   [ME.SELF]: Object.freeze({
     [ME.EMAIL]: 'mailto:sv_anacaroline@live.com',
-    [ME.GIT_HUB]: 'https://github.com/ana0706',
+    [ME.GIT_HUB]: 'https://github.com/sv-anacaroline',
     [ME.INSTAGRAM]: 'https://www.instagram.com/ana.caroline.v/',
     [ME.LINKEDIN]:
       'https://www.linkedin.com/in/svanacaroline/',
