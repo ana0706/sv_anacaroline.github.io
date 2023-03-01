@@ -18,7 +18,7 @@ const locale =
   // navigator.language ||
   // navigator.userLanguage ||
   // (navigator.languages && navigator.languages[0]) ||
-  'en-US';
+  'pt-BR';
 
 ReactDOM.render(
   <IntlProvider locale={locale} messages={flattenMessages(messages[locale])}>

@@ -1,18 +1,16 @@
 const header_ptBR = {
-  name: 'Joao Henrique Serodio',
+  name: 'Ana Caroline Vieira',
   info: {
-    email: 'joao.serodio@vnator.com',
+    email: 'sv_anacaroline@live.com',
     location: 'Curitiba - PR',
     formation:
-      '<strong>Formacao:</strong> Sistemas de informação - UCP (Pitanga - PR) - 2008/2012',
+      '<strong>Formacao:</strong> Sistemas de informação - UP (Universidade Positivo - PR) - 2020/2023',
     employ:
-      '<strong>Ocupacao:</strong> Senior Software Engineering at <company>VNATOR</company>',
+      '<strong>Ocupacao:</strong> Junior Software Engineering at <company>VNATOR</company>',
   },
   bio: {
     title: 'Bio',
-    paragraph:
-      'Sou um desenvolvedor generalista/especialista com perfil <shaped>Pi Shaped</shaped>, minhas especialidades são Javascript e Programação funcional, com generalidades em desenvolvimento backend Python, Java, Elixir E Rust. Atualmente estou dedicando meus estudos à arquitetura de aplicações cloud com o intuito de aperfeiçoar as habilidades que desenvolvi ao longo do tempo como desenvolvedor que já atuou em todos os aspectos do desenvolvimento e manutenção de uma aplicação web. Comecei a programar em 2007 e acabei entrando na faculdade de sistemas de informação em 2008, desde então venho trabalhando para atingir meus objetivos, e sinceramente não tenho fracassado. As linguagens de programação que venho acompanhando atualmente são NodeJS(Typescript <3) Rust e Elixir com objetivo me tornar um profissional indispensável em qualquer produto baseado em computação distribuída.',
-  },
+    paragraph: 'Sou uma desenvolvedora júnior e atualmente atuo como full-stack. Meu maior foco é em desenvolvimento back-end, aplico-me aos estudos da programação funcional especialmente com Elixir e bancos de dados. Possuo 2 anos de experiencia em desenvolvimento, sendo um deles em meu primeiro estágio focado na realização de testes unitários para gateway reverso em Lua. Em meu último ano de trabalho tive a experiência com o desenvolvimento feito em Elixir, Graphql, Typescriptde e com TDD em um sistema interno de faturamento de descontos em faturas de energia. Busco me tornar uma profissional mais competente, eficiente e completa afim te me tornar peça chave para os produtos em que irei atuar.' },
 };
 
 export { header_ptBR };

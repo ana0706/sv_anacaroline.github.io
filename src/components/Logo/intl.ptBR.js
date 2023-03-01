@@ -1,5 +1,5 @@
 const logo_ptBR = {
-  title: 'JH Serodio - Sofware Developer',
+  title: 'Ana Vieira - Sofware Developer',
 };
 
 export { logo_ptBR };

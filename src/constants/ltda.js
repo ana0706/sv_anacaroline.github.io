@@ -1,12 +1,6 @@
 const LTDA = Object.freeze({
+  NEXENERGY: 'NEX Energy',
   VNATOR: 'VNATOR',
-  KOVI: 'KOVI',
-  PEDE_PRONTO: 'PEDE_PRONTO',
-  CINQ: 'CINQ',
-  IESDE: 'IESDE',
-  AGROTIS: 'AGROTIS',
-  POLVO: 'POLVO',
-  FREELANCER: 'FREELANCER',
 });
 
 export { LTDA };

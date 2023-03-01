@@ -1,5 +1,5 @@
 const logo_enUS = {
-  title: 'JH Serodio - Sofware Developer',
+  title: 'Ana Vieira - Sofware Developer',
 };
 
 export { logo_enUS };

@@ -3,7 +3,6 @@ import Type from 'prop-types';
 import style from './App.module.css';
 
 import { Header } from '../components/Header/Header';
-import { Resume } from '../components/Resume/Resume';
 import { Stack } from '../components/Stack/Stack';
 import { Jobs } from '../components/Jobs/Jobs';
 import { Logo } from '../components/Logo/Logo';
@@ -72,7 +71,6 @@ const App = () => {
       <List position={style._top} />
       <Logo className={style.logo} />
       <Header />
-      <Resume />
       <Stack />
       <Jobs />
       <List position={style._bottom} />
